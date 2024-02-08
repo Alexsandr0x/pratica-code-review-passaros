@@ -12,4 +12,4 @@ VU - Ameaçado
 
 "Em 2019 existiam apenas 166 ararinhas-azuis no mundo. Vítima da caça e do tráfico, a espécie rara foi considerada extinta na natureza no ano de 2000."
 
-G1 - Brasil vai receber 50 ararinhas-azuis da Alemanha (link)[https://g1.globo.com/], acessado em 07/02/2024
+G1 - Brasil vai receber 50 ararinhas-azuis da Alemanha [[link](https://g1.globo.com/)], acessado em 07/02/2024
