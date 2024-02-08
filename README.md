@@ -2,10 +2,6 @@
 
 Nesse repositório armazenamos uma série de informaçoes sobre diversos passaros.
 
-A pasta "Passaros Brasileiros" deve conter textos de passaros majoritariamente relacionados ao Brasil
-
-A pasta "Passaros Exóticos" deve conter textos de passaros não brasileiros em risco de extinção
-
 A estrutura base de um texto deve seguir dessa forma:
 
 
