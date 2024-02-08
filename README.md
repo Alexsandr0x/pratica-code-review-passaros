@@ -1,6 +1,6 @@
 ## Prática de Code Review - Breve Enciclopédia de Passaros!
 
-Nesse repositório armazenamos uma série de informaçoes sobre diversos passaros.
+Nesse repositório armazenamos uma série de informações sobre diversos passaros.
 
 A estrutura base de um texto deve seguir dessa forma:
 
