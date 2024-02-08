@@ -12,4 +12,4 @@ LC - Pouco Preocupante
 
 "Apesar da ave ter um esporão na asa, ele usa isso para assustar. Mas ele não vai atacar, ele esta sinalizando que ali está seu ninho."
 
-Tribuna PR - O quero-quero ataca? (link)[https://www.tribunapr.com.br/blogs/tribuna-em-foco/o-quero-quero-ataca/], acessado em 07/02/2024
+Tribuna PR - O quero-quero ataca? [[link](https://www.tribunapr.com.br/blogs/tribuna-em-foco/o-quero-quero-ataca/)], acessado em 07/02/2024
